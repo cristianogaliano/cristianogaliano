@@ -7,8 +7,8 @@
 
 ## Skills
 iOS Software Development<br>
-Software Components, CocoaPods and Swift package Libraries<br>
 Programming Languages: Swift Object-Oriented Programming<br>
+Software Components, CocoaPods and Swift package Libraries<br>
 I learnt how to use XCode to build UIKit and SwiftUI Apps<br>
 GitHub version control, GitFlow branching model pattern<br><br>
 SOLID Principles Design Pattern<br>
