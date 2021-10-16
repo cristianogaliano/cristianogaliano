@@ -1,5 +1,5 @@
 # About myself 👨🏻‍💻
-- 👋 Hi, I’m Cristiano Galiano, Italian iOS Developer located in Sydney Australia
+- 👋 Hi, I’m Cristiano Galiano, 🇮🇹Italian iOS Developer located in 🇦🇺Sydney Australia
 - 👀 I’m interested in AppleTech and new technologies
 - 📚 I’m currently learning new iOS features
 - 🎖 I’m looking to collaborate on a team work
