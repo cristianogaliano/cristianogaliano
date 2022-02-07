@@ -17,6 +17,7 @@ Firebase APIs<br>
 ## Education
 Certificate: iOS SwiftUI, 08/2021 - Credo Academy: Udemy/Online Certificate: IOS Development<br>
 Certificate: iOS UIKit, 08/2020 - London AppBrewery Education Institute: Udemy/Online Certificate<br>
+Certificate Senior iOS Developer - Essential Lead Developer Course 02/2022 - still enrolled
 
 ## Work Experience
 iOS Developer, 01/2019 to Current<br> 
