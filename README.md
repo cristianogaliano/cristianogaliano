@@ -1,8 +1,5 @@
 # About myself 👨🏻‍💻
 - 👋 Hi, I’m Cristiano Galiano, 🇮🇹Italian iOS Developer located in 🇺🇸 Texas, USA
-- 👀 I’m interested in AppleTech and new technologies
-- 📚 I’m constantly learning new iOS features and software architecture
-- 📨 How to reach me: cristianogaliano88@gmail.com or https://www.linkedin.com/in/cristiano-galiano-8412651a1/
 - 🖥 Here's some of my jobs: https://github.com/cristianogaliano/Portfolio https://cristianogaliano.github.io/Portfolio/
 
 ## Skills
